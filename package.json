@@ -13,5 +13,11 @@
     "Task1"
   ],
   "author": "Mariia Perepelkina",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-image": "^3.0.1",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-styles": "^4.0.0"
+  }
 }
